@@ -1,0 +1,18 @@
+# Java
+target/
+*.class
+*.log
+*.jar
+*.war
+*.iml
+.gradle/
+.idea/
+
+# Node.js
+node_modules/
+dist/
+.env
+npm-debug.log*
+
+# VSCode
+.vscode/
